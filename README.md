@@ -6,7 +6,7 @@ Top-rated certified React web developer with over 1 year of professional experie
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-hadi&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-hadi" /> </p>
 
-- 🔭 I’m currently working on [Leads Management System](https://fashionavia.com/)
+- 🔭 I’m currently working on [Leads Management System](https://lead.nexusberry.com/)
 
 - 📫 You can contact me at **sheikhgee322@gmail.com**
 
