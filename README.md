@@ -2,7 +2,7 @@
 
 ## A Passionate MERN Stack Developer from Pakistan
 
-Top-rated certified React web developer with over 1 year of professional experience.
+Top-rated certified React web developer with over 3 year of professional experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-hadi&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-hadi" /> </p>
 
